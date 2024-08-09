@@ -1,0 +1,201 @@
+CountryID,CountryName,Region,Population,GDP
+1,Vietnam,Southeast Asia,97338579,343.6
+2,United States,North America,331002651,21427.7
+3,Japan,East Asia,126476461,5081.7
+4,Germany,Europe,83783942,3845.6
+5,China,East Asia,1439323776,14342.9
+6,South Korea,East Asia,51269185,1630.5
+7,United Kingdom,Europe,67886011,2827.1
+8,France,Europe,65273511,2715.5
+9,Canada,North America,37742154,1736.4
+10,Australia,Oceania,25499884,1392.7
+11,India,South Asia,1380004385,2875.1
+12,Brazil,South America,212559417,2055.5
+13,Russia,Eastern Europe,145934462,1699.9
+14,Italy,Europe,60461826,2001.2
+15,Spain,Europe,46754778,1409.2
+16,Mexico,North America,128932753,1184.6
+17,Indonesia,Southeast Asia,273523615,1119.2
+18,Netherlands,Europe,17134872,907
+19,Saudi Arabia,Middle East,34813871,792.9
+20,South Africa,Africa,59308690,358.8
+21,Argentina,South America,45195777,449.7
+22,Egypt,Africa,102334404,362.8
+23,Thailand,Southeast Asia,69799978,543.7
+24,Turkey,Middle East,84339067,771.4
+25,Malaysia,Southeast Asia,32365999,364.7
+26,Sweden,Europe,10099265,530.8
+27,Switzerland,Europe,8654622,709
+28,Singapore,Southeast Asia,5850342,372.1
+29,Philippines,Southeast Asia,109581078,367.3
+30,Nigeria,Africa,206139589,448.1
+31,Colombia,South America,50882891,323.7
+32,Iran,Middle East,83992949,454
+33,Pakistan,South Asia,220892331,278.2
+34,Chile,South America,19116201,299.1
+35,Greece,Europe,10423054,209.9
+36,Belgium,Europe,11589623,529.8
+37,Peru,South America,32971846,231
+38,Vietnam,Southeast Asia,97338579,343.6
+39,South Africa,Africa,59308690,358.8
+40,Netherlands,Europe,17134872,907
+41,Denmark,Europe,5793636,352.9
+42,Finland,Europe,5540720,280.7
+43,Norway,Europe,5421241,403.5
+44,Austria,Europe,9006398,446.3
+45,Hungary,Europe,9660351,170.9
+46,Saudi Arabia,Middle East,34813871,792.9
+47,UAE,Middle East,9890402,421.1
+48,Australia,Oceania,25788219,1408.7
+49,New Zealand,Oceania,4822233,206.2
+50,South Korea,East Asia,51269185,1781.4
+51,Japan,East Asia,125584838,5082.6
+52,Mexico,North America,128932753,1251
+53,Canada,North America,37742154,1930
+54,Brazil,South America,213993437,1839.8
+55,Argentina,South America,45195777,449.7
+56,Egypt,Africa,102334404,362.8
+57,Thailand,Southeast Asia,69799978,543.7
+58,Turkey,Middle East,84339067,771.4
+59,Malaysia,Southeast Asia,32365999,364.7
+60,Sweden,Europe,10099265,530.8
+61,Netherlands,Europe,17134872,1034
+62,Belgium,Europe,11589623,567.7
+63,Switzerland,Europe,8654622,703.1
+64,Ireland,Europe,4955925,383.4
+65,Singapore,Southeast Asia,5896686,372.1
+66,Philippines,Southeast Asia,113417707,395.5
+67,Indonesia,Southeast Asia,276361783,1119.2
+68,South Africa,Africa,59308690,351.4
+69,Nigeria,Africa,206139589,448.1
+70,Kenya,Africa,53771296,95.5
+71,Chile,South America,19116201,282.8
+72,Peru,South America,32971846,229.2
+73,Colombia,South America,50882891,333.7
+74,Vietnam,Southeast Asia,97338579,341.7
+75,Bangladesh,South Asia,164689383,317
+76,Pakistan,South Asia,220892331,278.2
+77,Sri Lanka,South Asia,21413249,84
+78,Nepal,South Asia,29136808,34
+79,Myanmar,Southeast Asia,54409800,81.3
+80,Cambodia,Southeast Asia,16718965,27
+81,Thailand,Southeast Asia,69799978,543.7
+82,Turkey,Middle East,84339067,771.4
+83,Malaysia,Southeast Asia,32365999,364.7
+84,Sweden,Europe,10099265,530.8
+85,Netherlands,Europe,17134872,1034
+86,Belgium,Europe,11589623,567.7
+87,Switzerland,Europe,8654622,703.1
+88,Ireland,Europe,4955925,383.4
+89,Singapore,Southeast Asia,5896686,372.1
+90,Philippines,Southeast Asia,113417707,395.5
+91,Indonesia,Southeast Asia,276361783,1119.2
+92,South Africa,Africa,59308690,351.4
+93,Nigeria,Africa,206139589,448.1
+94,Kenya,Africa,53771296,95.5
+95,Chile,South America,19116201,282.8
+96,Peru,South America,32971846,229.2
+97,Colombia,South America,50882891,333.7
+98,Vietnam,Southeast Asia,97338579,341.7
+99,Bangladesh,South Asia,164689383,317
+100,Pakistan,South Asia,220892331,278.2
+101,Spain,Europe,46723749,1461.5
+102,Portugal,Europe,10196709,237
+103,Italy,Europe,60244639,1960.1
+104,Greece,Europe,10423054,209.4
+105,Egypt,Africa,102334404,394.3
+106,Morocco,Africa,36910560,119
+107,Algeria,Africa,43851044,169.9
+108,Tunisia,Africa,11818619,40.8
+109,Brazil,South America,212559417,1839.8
+110,Argentina,South America,45195777,449.7
+111,Uruguay,South America,3475842,59.9
+112,Paraguay,South America,7132530,40.1
+113,Australia,Oceania,25499884,1408.7
+114,New Zealand,Oceania,4822233,206
+115,Japan,Asia,126476461,5081
+116,South Korea,Asia,51269185,1780.2
+117,China,Asia,1439323776,14342.9
+118,India,Asia,1380004385,2875.5
+119,Russia,Europe,145912025,1683.8
+120,Ukraine,Europe,43733762,153.8
+121,Canada,North America,37742154,1938.4
+122,Mexico,North America,128932753,1307.5
+123,Saudi Arabia,Middle East,34813871,792.9
+124,United Arab Emirates,Middle East,9890402,421.1
+125,Kuwait,Middle East,4270571,137.6
+126,Qatar,Middle East,2881053,183.4
+127,Brazil,South America,212559417,1839.8
+128,Argentina,South America,45195777,449.7
+129,Uruguay,South America,3475842,59.9
+130,Paraguay,South America,7132530,40.1
+131,Australia,Oceania,25499884,1408.7
+132,New Zealand,Oceania,4822233,206
+133,Japan,Asia,126476461,5081
+134,South Korea,Asia,51269185,1780.2
+135,China,Asia,1439323776,14342.9
+136,India,Asia,1380004385,2875.5
+137,Russia,Europe,145912025,1683.8
+138,Ukraine,Europe,43733762,153.8
+139,Spain,Europe,46723749,1461.5
+140,Portugal,Europe,10196709,237
+141,Germany,Europe,83783942,4463.3
+142,France,Europe,65273511,2939.6
+143,United Kingdom,Europe,67886011,2827.4
+144,Netherlands,Europe,17134872,1040.2
+145,Belgium,Europe,11589623,580.7
+146,Sweden,Europe,10099265,530.4
+147,Norway,Europe,5421241,434.8
+148,Finland,Europe,5540720,276.4
+149,Switzerland,Europe,8654622,705.5
+150,Austria,Europe,9006398,446.3
+151,Singapore,Asia,5850342,372.1
+152,Malaysia,Asia,32365999,364.9
+153,Thailand,Asia,69830779,543.6
+154,Vietnam,Asia,97338579,261.9
+155,Philippines,Asia,109581078,376.8
+156,Indonesia,Asia,273523621,1119.2
+157,South Africa,Africa,59308690,351.4
+158,Nigeria,Africa,206139589,448.1
+159,Kenya,Africa,53771296,95.5
+160,Ghana,Africa,31072940,66.9
+161,Chile,South America,19218796,282.6
+162,Colombia,South America,50882891,323.7
+163,Peru,South America,32971854,226.9
+164,Ecuador,South America,17643054,110.9
+165,Bolivia,South America,11633371,40.3
+166,Costa Rica,Central America,5094118,61.8
+167,Panama,Central America,4314767,68.1
+168,Honduras,Central America,9904608,24.2
+169,El Salvador,Central America,6486205,27
+170,Nicaragua,Central America,6624554,13.1
+171,Morocco,Africa,36910560,119
+172,Egypt,Africa,102334404,362
+173,Algeria,Africa,43851044,170.3
+174,Tunisia,Africa,11818619,40
+175,Ghana,Africa,31072940,66.9
+176,Ivory Coast,Africa,26378274,57.4
+177,Senegal,Africa,16743927,24.6
+178,Mali,Africa,20250833,18
+179,Angola,Africa,32866272,124.2
+180,Ethiopia,Africa,114963588,96.2
+181,New Zealand,Oceania,5120564,206
+182,Pakistan,Asia,220892331,278.2
+183,Bangladesh,Asia,164689383,302.6
+184,Sri Lanka,Asia,21413249,84
+185,Nepal,Asia,29136808,32.6
+186,Myanmar,Asia,54409800,76
+187,Cambodia,Asia,16718965,27.1
+188,Laos,Asia,7275560,18.8
+189,Fiji,Oceania,896445,5
+190,Papua New Guinea,Oceania,8947027,24.1
+191,Argentina,South America,45195777,449.7
+192,Brazil,South America,212559417,1839.8
+193,Venezuela,South America,28435940,70.1
+194,Uruguay,South America,3473730,59.5
+195,Paraguay,South America,7132530,43
+196,Bolivia,South America,11633371,40.3
+197,Cuba,Caribbean,11326616,100.8
+198,Jamaica,Caribbean,2961161,15.7
+199,Haiti,Caribbean,11402528,8.4
+200,Trinidad and Tobago,Caribbean,1399488,22.8

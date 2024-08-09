@@ -1,0 +1,61 @@
+ProductID,ProductName,Category,UnitPrice,CostPrice,CountryID
+1,Laptop A,Electronics,1000,800,1
+2,Phone B,Electronics,800,600,2
+3,TV C,Electronics,1500,1200,3
+4,Headphones D,Accessories,200,150,4
+5,Camera E,Electronics,700,500,5
+6,Tablet F,Electronics,600,400,6
+7,Smartwatch G,Electronics,300,250,7
+8,Speaker H,Electronics,250,200,8
+9,Laptop I,Electronics,1200,900,9
+10,Phone J,Electronics,900,700,10
+11,TV K,Electronics,1800,1400,11
+12,Headphones L,Accessories,220,170,12
+13,Camera M,Electronics,800,600,13
+14,Tablet N,Electronics,650,450,14
+15,Smartwatch O,Electronics,350,280,15
+16,Speaker P,Electronics,300,250,16
+17,Laptop Q,Electronics,1300,1000,17
+18,Phone R,Electronics,950,750,18
+19,TV S,Electronics,2000,1600,19
+20,Headphones T,Accessories,250,200,20
+21,Mouse U,Accessories,30,20,21
+22,Keyboard V,Accessories,50,35,22
+23,Monitor W,Electronics,300,200,23
+24,Desk X,Furniture,200,150,24
+25,Chair Y,Furniture,100,80,25
+26,Lamp Z,Home Decor,50,40,26
+27,Fridge A1,Appliances,800,600,27
+28,Microwave B1,Appliances,150,100,28
+29,Blender C1,Appliances,80,60,29
+30,Toaster D1,Appliances,50,40,30
+31,Vacuum E1,Appliances,200,150,31
+32,Fan F1,Appliances,70,50,32
+33,Iron G1,Appliances,40,30,33
+34,Camera H1,Electronics,700,500,34
+35,Printer I1,Electronics,150,100,35
+36,Projector J1,Electronics,500,350,36
+37,Scanner K1,Electronics,200,150,37
+38,External HDD L1,Electronics,120,80,38
+39,SSD M1,Electronics,100,70,39
+40,Router N1,Electronics,80,60,40
+41,Headphones A2,Accessories,80,50,41
+42,Speakers B2,Electronics,200,120,42
+43,Laptop C2,Electronics,1200,900,43
+44,Table D2,Furniture,250,180,44
+45,Sofa E2,Furniture,600,400,45
+46,Clock F2,Home Decor,30,20,46
+47,Washing Machine G2,Appliances,700,500,47
+48,Dryer H2,Appliances,400,300,48
+49,Dishwasher I2,Appliances,800,600,49
+50,Air Conditioner J2,Appliances,1000,800,50
+51,Electric Kettle K2,Appliances,50,30,51
+52,Blender L2,Appliances,80,60,52
+53,Smartwatch M2,Electronics,300,200,53
+54,Drone N2,Electronics,500,350,54
+55,VR Headset O2,Electronics,400,250,55
+56,External SSD P2,Electronics,150,100,56
+57,Smart TV Q2,Electronics,1200,900,57
+58,Gaming Console R2,Electronics,600,450,58
+59,Wireless Router S2,Electronics,80,50,59
+60,Power Bank T2,Electronics,50,30,60
